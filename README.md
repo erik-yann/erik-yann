@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erik-yann
 - 👀 I’m interested in new tech, React & Node
-- 🌱 I’m currently learning Nextjs
+- 🌱 Learning never stop !
 
 
 <!---
