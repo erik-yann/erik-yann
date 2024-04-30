@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @erik-yann
-- 👀 I’m interested in new tech, React & Node
 - 🌱 Learning never stop !
 
 
